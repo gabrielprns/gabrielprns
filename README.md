@@ -2,8 +2,8 @@
 
 <img  src="https://github.com/gabrielprns/gabrielprns/blob/master/boruto_dev.jpg"   width="500" height="500">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=i)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=i)](https://github.com/eeikee/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=r)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=8&theme=r)](https://github.com/eeikee/github-readme-stats)
 
 ```json
 
