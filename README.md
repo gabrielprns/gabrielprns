@@ -12,14 +12,14 @@
   "age" : "20",
   "description" : "I'm passionate about technology",
   "formations" : {
-  	"ADS" : {
+  	"ADS"  : {
 		"university" : "UNIP-Universidade Paulista",
-    "from" : "2019-02",
-		  "to" : "actually",
-  "course" : "Saga",
-		  "from" : "2018-02",
-		  "to" : "2020-04"
-	 },
+    			"from" : "2019-02",
+			"to" : "actually",
+ 		 "course" : "Saga",
+		  	"from" : "2018-02",
+		  	"to" : "2020-04"
+	 	},
    	
   },
   "experience": {
