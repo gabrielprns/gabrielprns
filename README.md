@@ -23,7 +23,7 @@
    	
   },
   "experience": {
-  	"trainne": "Digital_Inovation (2021)",
+  	  "trainne": "Digital_Inovation (2021)",
 	  "FreeLancer": "Fiverr (2021)"
   },
   "skills" : [
@@ -31,7 +31,7 @@
 		"c#",
 		"entity framework"
 	],
-  [
+  	[
 		"javascript",
 		"angular",
 		"nodejs"
@@ -39,28 +39,28 @@
 	[
 		"java"
 	],
- [
-	"python",
-	"php",
-	"css 3",
-	"html 5"
- ]
+ 	[
+		"python",
+		"php",
+		"css 3",
+		"html 5"
+ 	]
 	[
-	 "mysql",
+	 	"mysql",
 		"postgresql",
 		"sqlite"
 	]
-  ],
-   "hobbies" : [
-  	"calistenics",
+  	],
+   	"hobbies" : [
+  	  "calistenics",
 	  "weight training",
 	  "games",
 	  "tecnologies",
 	  "learning new languages",
-   "Design",
-   "Drawing",
-   "Watching Anime"
-  ],
+   	  "Design",
+   	  "Drawing",
+   	  "Watching Anime"
+  	],
 }
 ```
  
