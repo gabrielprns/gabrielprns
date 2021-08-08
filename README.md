@@ -58,5 +58,5 @@
   ],
 }
 ```
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=tokyonight)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=dark)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=dark)](https://github.com/eeikee/github-readme-stats)
