@@ -2,8 +2,8 @@
 
 <img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/index.jpg">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=dark)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=white)](https://github.com/eeikee/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=white)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=dark)](https://github.com/eeikee/github-readme-stats)
 
 ```json
 
