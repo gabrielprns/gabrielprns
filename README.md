@@ -1,19 +1,60 @@
 ### Hi there 👋
 
-<!--
-**gabrielprns/gabrielprns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "name" : "Gabriel Pedro Rodrigues Nunes",
+  "age" : "20",
+  "description" : "I'm passionate about technology",
+  "formations" : {
+  	"ADS" : {
+		"university" : "UNIP-Universidade Paulista",
+    "from" : "2019-02",
+		  "to" : "actually",
+  "course" : "Saga",
+		  "from" : "2018-02",
+		  "to" : "2020-04"
+	 },
+   	
+  },
+  "experience": {
+  	"trainne": "Digital_Inovation (2021)",
+	  "FreeLancer": "Fiverr (2021)"
+  },
+  "skills" : [
+  	[
+		"c#",
+		"entity framework"
+	],
+  [
+		"javascript",
+		"angular",
+		"nodejs"
+	],
+	[
+		"java"
+	],
+ [
+	"python",
+	"php",
+	"css 3",
+	"html 5"
+ ]
+	[
+	 "mysql",
+		"postgresql",
+		"sqlite"
+	]
+  ],
+   "hobbies" : [
+  	"calistenics",
+	  "weight training",
+	  "games",
+	  "tecnologies",
+	  "learning new languages",
+   "Design",
+   "Drawing",
+   "Watching Anime"
+  ],
+}
  <div class="instagram-phone">
   <a href="https://github.com/gabrielprns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
