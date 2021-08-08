@@ -58,8 +58,5 @@
   ],
 }
 ```
- <div class="instagram-phone">
-  <a href="https://github.com/gabrielprns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&langs_count=7&theme=white"/>
-</div>
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=tokyonight)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
