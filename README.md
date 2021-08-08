@@ -10,9 +10,9 @@
 {
   "name" : "Gabriel Pedro Rodrigues Nunes",
   "age" : "20",
-  "description" : "I'm passionate about technology",
-  "formations" : {
-  	"ADS"  : {
+  "description": "I'm passionate about technology",
+  "formations": {
+  	"ADS" : {
 		"university" : "UNIP-Universidade Paulista",
     			"from" : "2019-02",
 			"to" : "actually",
@@ -26,7 +26,7 @@
   	  "trainne": "Digital_Inovation (2021)",
 	  "FreeLancer": "Fiverr (2021)"
   },
-  "skills" : [
+  "skills": [
   	[
 		"c#",
 		"entity framework"
@@ -51,7 +51,7 @@
 		"sqlite"
 	],
   	]
-   	"hobbies" : [
+   	"hobbies": [
   	  "calistenics",
 	  "weight training",
 	  "games",
