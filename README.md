@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+```json
+
 {
   "name" : "Gabriel Pedro Rodrigues Nunes",
   "age" : "20",
@@ -55,6 +57,7 @@
    "Watching Anime"
   ],
 }
+```
  <div class="instagram-phone">
   <a href="https://github.com/gabrielprns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
