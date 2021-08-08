@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="auto" src="https://github.com/gabrielprns/gabrielprns/master/boruto_dev.jpg">
+<img width="auto" src="https://github.com/gabrielprns/gabrielprns/tree/master/boruto_dev.jpg">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielprns&show_icons=true&theme=dark)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprns&layout=compact&show_icons=true&theme=dark)](https://github.com/eeikee/github-readme-stats)
