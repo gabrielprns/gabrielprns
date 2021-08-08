@@ -51,7 +51,7 @@
 		"sqlite"
 	],
   	]
-   	"hobbies": [
+   	"hobbies" : [
   	  "calistenics",
 	  "weight training",
 	  "games",
