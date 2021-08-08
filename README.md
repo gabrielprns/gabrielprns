@@ -44,13 +44,13 @@
 		"php",
 		"css 3",
 		"html 5"
- 	]
+ 	],
 	[
 	 	"mysql",
 		"postgresql",
 		"sqlite"
-	]
-  	],
+	],
+  	]
    	"hobbies" : [
   	  "calistenics",
 	  "weight training",
@@ -60,7 +60,7 @@
    	  "Design",
    	  "Drawing",
    	  "Watching Anime"
-  	],
+  	]
 }
 ```
  
