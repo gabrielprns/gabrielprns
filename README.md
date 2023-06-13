@@ -24,7 +24,7 @@
 
 {
   "name" : "Gabriel Pedro Rodrigues Nunes",
-  "age" : "20",
+  "age" : "21",
   "description": "I'm passionate about technology",
   "formations": {
   	"ADS" : {
@@ -39,7 +39,9 @@
   },
   "experience": {
   	  "trainne": "Digital_Inovation (2021)",
-	  "FreeLancer": "Fiverr (2021)"
+	  "FreeLancer": "Fiverr (2021)",
+	  "Júnior Developer": "WhyDigital (2022)",
+	  "FreeLancer": "Workana (2023)"
   },
   "skills": [
   	[
@@ -48,7 +50,7 @@
 	],
   	[
 		"javascript",
-		"angular",
+		"react",
 		"nodejs"
 	],
 	[
